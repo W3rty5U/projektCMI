@@ -7,7 +7,9 @@
 - about
 - main
 - graphics (preferably svgs)
+  - lights & shadows
 - map(s)
+  - map creator/editor
 - car(s)
 - physics
   - acceleration & deacceleration
@@ -17,5 +19,6 @@
   - rotating with the player
 - storing lap times
 - upgrading system
-- compare scores with friends
+- AI
+- leaderboard
 - (local) multiplayer
